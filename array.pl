@@ -20,3 +20,8 @@ print "4. \@coins = @coins\n";
 
 shift(@coins);
 print "5. \@coins = @coins\n";
+
+@days = qw/Mon Tue Wed Thu Fri Sat Sun/;
+#@weekdays = @days[1, 3, 5];
+@weekdays = @days[0..5];
+print "\@weekdays = @weekdays\n";

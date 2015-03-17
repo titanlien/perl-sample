@@ -2,7 +2,7 @@
 
 from http://www.tutorialspoint.com/perl/
 
-## solve the default perl module issue with default yosemite's perl
+## solve the yosemite's default perl module issue
 
 https://movabletype.org/documentation/installation/osx-10-9.html#install-perl-modules
 

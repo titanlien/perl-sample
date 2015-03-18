@@ -9,3 +9,7 @@ https://movabletype.org/documentation/installation/osx-10-9.html#install-perl-mo
 ## install perl module
 
 $cpanm Switch #examplse switch module
+
+## use custom module
+
+http://perlmaven.com/how-to-create-a-perl-module-for-code-reuse
